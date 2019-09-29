@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Русские пароли</string>
+    <string name="enter_password">Здесь вы можете посмотреть свой пароль, созданный по
+        методике "русское слово в английской раскладке"</string>
+    <string name="clipboard_title">пароль</string>
+    <string name="copy">скопировано</string>
+    <string name="check_caps">Заглавные</string>
+    <string name="check_digits">Цифры</string>
+    <string name="check_symbols">Спецсимволы</string>
+    <string name="button_generate_password">Сгенерировать</string>
+    <string name="generate_text_view">Сгенерируйте новый пароль ему на замену</string>
+
+    <plurals name="symbols_count">
+        <item quantity="one">%1$d символ</item>
+        <item quantity="two">%1$d символа</item>
+        <item quantity="few">%1$d символа</item>
+        <item quantity="many">%1$d символов</item>
+        <item quantity="other">%1$d символов</item>
+    </plurals>
+
+    <string-array name="russian">
+        <item>й</item>
+        <item>ц</item>
+        <item>у</item>
+        <item>к</item>
+        <item>е</item>
+        <item>н</item>
+        <item>г</item>
+        <item>ш</item>
+        <item>щ</item>
+        <item>з</item>
+        <item>х</item>
+        <item>ъ</item>
+
+        <item>ф</item>
+        <item>ы</item>
+        <item>в</item>
+        <item>а</item>
+        <item>п</item>
+        <item>р</item>
+        <item>о</item>
+        <item>л</item>
+        <item>д</item>
+        <item>ж</item>
+
+
+        <item>я</item>
+        <item>ч</item>
+        <item>с</item>
+        <item>м</item>
+        <item>и</item>
+        <item>т</item>
+        <item>ь</item>
+        <item>б</item>
+        <item>ю</item>
+
+    </string-array>
+
+    <string-array name="latin">
+        <item>q</item>
+        <item>w</item>
+        <item>e</item>
+        <item>r</item>
+        <item>t</item>
+        <item>y</item>
+        <item>u</item>
+        <item>i</item>
+        <item>o</item>
+        <item>p</item>
+        <item>[</item>
+        <item>]</item>
+
+        <item>a</item>
+        <item>s</item>
+        <item>d</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>;</item>
+
+        <item>z</item>
+        <item>x</item>
+        <item>c</item>
+        <item>v</item>
+        <item>b</item>
+        <item>n</item>
+        <item>m</item>
+        <item>,</item>
+        <item>.</item>
+
+    </string-array>
+
+
+</resources>
